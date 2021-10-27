@@ -1,0 +1,40 @@
+.container{
+    margin-top: 50px;
+    width: 75%;
+    height: 750px;
+    border: 2px solid black;
+    
+    
+}
+.img{
+  background-image: url(C:\Users\User\OneDrive\Desktop\angular\demo\src\images\bkk.jpg);
+
+background-size: cover
+    
+}
+.box{
+    text-align: end;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h3{
+    color: red;
+}
+.login{
+    position: relative;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.psswd{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 10px;
+}
+body{
+    background-color: salmon;
+   
+}

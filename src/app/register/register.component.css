@@ -1,0 +1,30 @@
+.container{
+    width: 75%;
+    height: 600px;
+    border: 2px solid black;
+    
+    
+}
+
+.box{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.login{
+    position: relative;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.psswd{
+    margin-top: 10px;
+}
+.button{
+    margin-top: 10px;
+}
+
+.error{
+    color: red;
+}
